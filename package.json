@@ -1,0 +1,22 @@
+{
+  "name": "discord bot",
+  "version": "0.1.1",
+  "description": "My first bot on 24/7",
+  "main": "node server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "author": "BulzyKrown",
+  "license": "MIT",
+  "homepage": "https://github.com/BulzyKrown/Karu/blob/master/README.md",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "enmap": "^4.3.2",
+    "express": "^4.16.4",
+    "needle": "^2.2.4"
+  }
+}
